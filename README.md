@@ -29,7 +29,7 @@ If you find the package is useful in your research, please consider citing:
 
 3. Install python packages
    ```Shell
-   pip install -r requirement.txt
+   pip install -r requirements.txt
    ```
    
 ### Usage
