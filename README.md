@@ -6,6 +6,10 @@ Self-supervised object segmentation via multi-object tracking and mask propapagt
 
 This is the object segmentation code in the following paper. [arXiv](https://arxiv.org/abs/2302.03793), [Project](https://irvlutd.github.io/SelfSupervisedSegmentation/)
 
+### Dataset
+
+The dataset we collected via robot interaction can be downloaded from [here](https://utdallas.app.box.com/s/yipcemru6qsbw0wj1nsdxq1dw5mjbtiq).
+
 ### License
 
 The code is released under the MIT License (refer to the LICENSE file for details).
@@ -43,3 +47,5 @@ If you find the package is useful in your research, please consider citing:
    The code will run over the image sequences under the data folder, and generate the final segmentation masks of all the images.
    Here is one example output:
    <p align="center"><img src="example.png" width="640" height="240"/></p>
+   
+
