@@ -34,7 +34,7 @@ If you find the package is useful in your research, please consider citing:
    
 ### Usage
 
-1. Download our sample dataset from here for testing [data.zip](https://utdallas.box.com/s/v89eldmysey3vlx01yqb7waqdck2uxpb)
+1. Download our sample dataset from here for testing [data.zip](https://utdallas.box.com/s/v89eldmysey3vlx01yqb7waqdck2uxpb), and unzip it to the root folder
 
 2. Run the following python script
    ```Shell
